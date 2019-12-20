@@ -1,6 +1,6 @@
 ## Square-and-dots
 
-![image](https://github.com/asteroid5566/Square-and-dotss/blob/master/demo.png)
+![image](https://github.com/asteroid5566/Square-and-dots/blob/master/demo.png)
 
 <br>
 網頁遊戲"The world's hardest game"的重製版
@@ -29,4 +29,4 @@
 
 v1.0&nbsp;&nbsp;第一版
 <br>
-v2.0&nbsp;&nbsp;增加虛擬搖桿並輸出apk安裝檔
+v2.0&nbsp;&nbsp;增加虛擬搖桿和apk安裝檔
